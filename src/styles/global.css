@@ -315,6 +315,7 @@
 }
 .contact__title em { font-style: italic; color: var(--rose-soft); }
 .contact__cta {
+  margin-top: 2rem;
   display: inline-flex;
   align-items: center;
   gap: 1rem;
