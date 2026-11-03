@@ -1,6 +1,8 @@
 # L. Nocturne — Gothic Beauty & Artistry
 
-Editorial portfolio website for a makeup artist. Built with React + Vite, deployable as a static site on Vercel.
+**Demo live:** [https://l-nocturne.vercel.app/](https://l-nocturne.vercel.app/)
+
+Editorial portfolio website for a makeup artist. Built with React + Vite, deployed as a static site on Vercel.
 
 ## Getting started
 
